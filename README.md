@@ -7,8 +7,8 @@ Full Stack Web Developer
 I'm an Fullstack Developer with over a year of enterprise experience in Software and Mobile development in Fintech, Churches and private companies. Knowledge of UI and animation frameworks, Django, Next Js and sufficient technical knowledge of web application development. Collaborated with designers to create innovative and responsive user experiences.
 
 * 🌍 I'm based in Nairobi, Kenya
-* 🧠 I’m currently learning new concepts Kotlin and Js.
-* 🤝 I’m open to collaborate on Kotlin, Next Js, Node Js
+* 🧠 I’m currently learning new concepts in Kotlin and Js
+* 🤝 I’m open to collaborate in Kotlin, Next Js, Node Js projects
 * 📩 How to reach me: teegash@gmail.com
 * ⚡ Fun fact: I love classical music 🎶 
 
