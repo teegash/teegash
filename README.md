@@ -4,7 +4,7 @@ Hi 👋 my name is Nathaniel Gachukia
 Full Stack Web Developer
 --------------------------------
 
-I'm an Fullstack Developer with over a year of enterprise experience in Software and Mobile development in Fintech, Churches and private companies. Knowledge of UI and animation frameworks, Django, Next Js and sufficient technical knowledge of web application development. Collaborated with designers to create innovative and responsive user experiences.
+I'm an Fullstack Developer with enterprise experience in Software and Mobile development in Fintech, Churches and private companies. Knowledge of UI and animation frameworks, Django, Next Js and sufficient technical knowledge of web application development. Collaborated with designers to create innovative and responsive user experiences. Experimenting with cAlgo bots in C# language.
 
 * 🌍 I'm based in Nairobi, Kenya
 * 🧠 I’m currently learning new concepts in Kotlin and Js
