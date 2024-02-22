@@ -53,7 +53,7 @@ I'm an Fullstack Developer with enterprise experience in Software and Mobile dev
 
 <a href="http://www.github.com/teegash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teegash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teegash&show_icons=true&locale=en&layout=compact" alt="teegash" /></p>
+<a href="http://www.github.com/teegash"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=teegash&show_icons=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917&locale=en&layout=compact" alt="teegash" /></a>
 
  
 
