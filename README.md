@@ -8,7 +8,7 @@ I'm an Fullstack Developer with enterprise experience in Software and Mobile dev
 
 * 🌍 I'm based in Nairobi, Kenya
 * 🧠 I’m currently learning new concepts in Kotlin and Js
-* 🤝 I’m open to collaborate in Kotlin, Next Js, MERN projects
+* 🤝 I’m open to collaborate in Android, MERN projects
 * 📩 How to reach me: teegash@gmail.com
 * ⚡ Fun fact: I love classical music 🎶 
 
